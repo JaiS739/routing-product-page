@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "SmartPhone",
+      "price": 30,
+      "id": 0,
+      "Brand": "Xiaomi",
+      "Model": "redmi note 11 pro",
+      "avail": true
+    },
+    {
+      "name": "Watch",
+      "price": 20,
+      "id": 1,
+      "Brand": "Noise",
+      "Model": "Color Fit Icon Buzz",
+      "avail": true
+    },
+    {
+      "name": "Shirt",
+      "price": 50,
+      "id": 2,
+      "Brand": "H&M",
+      "Model": "Slim Fit",
+      "avail": true
+    },
+    {
+      "name": "Pants",
+      "price": 100,
+      "id": 3,
+      "Brand": "H&M",
+      "Model": "Regular Fit",
+      "avail": true
+    },
+    {
+      "name": "Laptop",
+      "price": 40000,
+      "id": 4,
+      "Brand": "",
+      "Model": "",
+      "avail": true
+    }
+  ]
+}
